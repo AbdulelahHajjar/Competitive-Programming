@@ -1,3 +1,4 @@
+// Term 191 - Week 09
 //Packing for Holiday
 //12372
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+// Term 191 - Week 09
 //Cost Cutting
 //11727
 import java.util.Scanner;
